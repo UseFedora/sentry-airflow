@@ -1,4 +1,4 @@
-import os
+import subprocess
 from airflow import configuration
 from airflow.exceptions import AirflowException
 from airflow.hooks.base_hook import BaseHook
